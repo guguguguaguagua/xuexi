@@ -1,4 +1,4 @@
-# xuexi
+# xue
 学习
 找开源项目的一些途径
 • https://github.com/trending/
